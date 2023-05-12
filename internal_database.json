@@ -968,6 +968,15 @@
     "Which field in an IPv4 packet header will typically stay the same during its transmission?" : "Destination Address",
     "first connection established" : "from client to server via TCP port 21 ; used for commands and replies",
     "second connection established" : "from client to server via TCP port 20 ; used for actual file transfer",
+    "Which two statements are characteristics of a virus? (Choose two.)" : "A virus typically requires end-user activation. ; A virus can be dormant and then activate at a specific time or date.",
+    "What is a characteristic of a Trojan horse as it relates to network security?" : "Malware is contained in a seemingly legitimate executable program.",
+    "What technique is used in social engineering attacks?" : "phishing",
+    "What is a purpose of implementing VLANs on a network?" : "They can separate user traffic.",
+    "Refer to the exhibit. A cybersecurity analyst is viewing packets forwarded by switch S2. What addresses will identify frames containing data sent from PCA to PCB?" : "Src IP: 192.168.1.212 Src ; MAC: 00-60-0F-B1-33-33= ; Dst IP: 192.168.2.101;  Dst MAC: 08-CB-8A-5C-BB-BB",
+    " A cybersecurity analyst needs to collect alert data. What are three detection tools to perform this task in the Security Onion architecture? (Choose three.)" : "CapME; Wazuh; Zeek",
+    "In network security assessments, which type of test is used to evaluate the risk posed by vulnerabilities to a specific organization including assessment of the likelihood of attacks and the impact of successful exploits on the organization?" : "risk analysis",
+    "In addressing an identified risk, which strategy aims to shift some of the risk to other parties?" : "risk sharing",
+    "What is a network tap?" : "a passive device that forwards all traffic and physical layer errors to an analysis device",
     "" : "",
     "" : ""
 }
