@@ -1141,5 +1141,8 @@
     "Match the common network technology or protocol with the description. (Not all options are used.)" : "uses a heirarchy... - NTP ; uses by attackers to exfiltrate.. - DNS ; uses UDP port ... - Syslog ; uses by attackers to identify... - ICMP",
     "Match the tabs of the Windows 10 Task Manager to their functions. (Not all options are used.)" : "Allows for a process.. - Details ; Displays resources... - Performance ; Allows programs that... - Startup ; Allows for a start ... - Service ",
     "Match the SIEM function to the description." : "reduces the volume .. - aggregation ; presents event data .. - reporting ; speeds detection.. - correlation ; searches logs... - forensic analysis",
+    "" : "",
+    "" : "",
+    "" : ""
     
 }
